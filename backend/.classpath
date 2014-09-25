@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jaxrs-api-3.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jboss-annotations-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/resteasy-jaxrs-3.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/scannotation-1.0.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/slf4j-simple-1.5.8.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
